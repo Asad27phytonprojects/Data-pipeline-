@@ -42,7 +42,7 @@ CSV_FILE = "data/processed/genz_slang.csv"  # Path to your processed CSV
 
 DB_HOST = "localhost"
 DB_USER = "root"            # Your MySQL username
-DB_PASSWORD = "asad."       # Your MySQL password
+DB_PASSWORD = "123"       # Your MySQL password
 DB_NAME = "genz_data"       # Database name (auto-created)
 TABLE_NAME = "genz_slang"   # Table name (auto-created)
 BATCH_SIZE = 1000           # Number of rows per batch insert If the data is not big you can remove the batch limit 
