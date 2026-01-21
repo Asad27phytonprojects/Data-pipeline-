@@ -1,0 +1,22 @@
+# Dependencies used in Kaggle → Polars → MySQL pipeline
+
+# For downloading Kaggle datasets
+kagglehub
+
+# For CSV processing and data manipulation
+polars
+
+# For connecting and interacting with MySQL
+mysql-connector-python
+
+# Built-in Python libraries used (no need to install)
+os
+sys
+
+
+## Dependencies
+All Python dependencies are listed in `dependencies.txt`.  
+Install them using:
+
+```bash
+pip install -r dependencies.txt
